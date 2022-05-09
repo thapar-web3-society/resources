@@ -15,4 +15,13 @@ contract Counter{
         count = 0;
     }
 
+    //! Simpler way to write the same contract
 
+    // pragma solidity ^0.6.0;
+
+    // contract Counter{
+    //     unit public counter = 0;
+    //     function incrementCOunt() public{
+    //         count++;
+    //     }
+    // }
