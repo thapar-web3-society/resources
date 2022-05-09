@@ -1,4 +1,5 @@
 pragma solidity ^0.6.0;
+// SPDX-License-Identifier: UNLICENSED
 contact myContract{
     function getValue() public pure returns(uint){
         unit value = 1;
