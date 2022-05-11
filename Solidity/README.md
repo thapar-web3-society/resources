@@ -2,4 +2,4 @@
 
 User Remix IDE to compile , deploy and run the contract on Remix's virtual blockchain so that you can interact with it.
 
-Link for notes => solidity.twsc.in
+Click on the blue button to access the notes => <a href = "solidity.twsc.in"> 🔘 </a>
